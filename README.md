@@ -1,3 +1,3 @@
 # PTM-HelloGit-Adamski
-## Test
-#### Go along!
+## For github testing purposes
+####### Go along!
