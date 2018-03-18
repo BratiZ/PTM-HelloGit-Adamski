@@ -1,3 +1,3 @@
 # PTM-HelloGit-Adamski
-## For github testing purposes
-##### Go along!
+### For github testing purposes
+##### It's simple C++ program, that shows "Hello World" like message. Nothing fancy. Just testing...
